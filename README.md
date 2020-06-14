@@ -5,3 +5,15 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 
 ## Content
 The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
+
+## Some Plots of the Dataset
+
+![Some Plots of the Dataset](img/heatmap.png)
+![Some Plots of the Dataset](img/hist.png)
+![Some Plots of the Dataset](img/scatter.png)
+![Some Plots of the Dataset](img/boxplot.png)
+![Some Plots of the Dataset](img/algo_comp.png)
+
+
+## Index.html
+![Index](img/index.png)
