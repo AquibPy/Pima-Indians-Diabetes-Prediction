@@ -8,10 +8,21 @@ The datasets consists of several medical predictor variables and one target vari
 
 ## Some Plots of the Dataset
 
+### HeatMap
+
 ![Some Plots of the Dataset](img/heatmap.png)
+
+### Histogram
 ![Some Plots of the Dataset](img/hist.png)
+
+### Scatter Plot
 ![Some Plots of the Dataset](img/scatter.png)
+
+### BoxPlot
 ![Some Plots of the Dataset](img/boxplot.png)
+
+### BoxPlot(Algorithm Comparision)
+
 ![Some Plots of the Dataset](img/algo_comp.png)
 
 
